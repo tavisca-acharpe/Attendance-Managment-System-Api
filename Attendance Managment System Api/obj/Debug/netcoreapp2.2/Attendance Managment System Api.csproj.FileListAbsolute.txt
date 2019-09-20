@@ -1,0 +1,14 @@
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\bin\Debug\netcoreapp2.2\Attendance Managment System Api.deps.json
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\bin\Debug\netcoreapp2.2\Attendance Managment System Api.runtimeconfig.json
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\bin\Debug\netcoreapp2.2\Attendance Managment System Api.runtimeconfig.dev.json
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\bin\Debug\netcoreapp2.2\Attendance Managment System Api.dll
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.csprojAssemblyReference.cache
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.csproj.CoreCompileInputs.cache
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.RazorAssemblyInfo.cache
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.RazorAssemblyInfo.cs
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.AssemblyInfoInputs.cache
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.AssemblyInfo.cs
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.RazorTargetAssemblyInfo.cache
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\bin\Debug\netcoreapp2.2\Attendance Managment System Api.pdb
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.dll
+C:\Users\acharpe\source\repos\Attendance Managment System Api\Attendance Managment System Api\obj\Debug\netcoreapp2.2\Attendance Managment System Api.pdb
